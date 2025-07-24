@@ -5,8 +5,8 @@ import sys
 import os
 
 # --- 설정 (사용자 환경에 맞게 수정) ---
-TELEGRAM_BOT_TOKEN = "8087893994:AAHNutdMob-8HI4yVY6HTBNUCXPDrpVK_t0" 
-TELEGRAM_CHAT_ID = "1338893598"
+TELEGRAM_BOT_TOKEN = ""
+TELEGRAM_CHAT_ID = ""
 
 # --- sources 폴더에서 클래스 가져오기 ---
 try:
